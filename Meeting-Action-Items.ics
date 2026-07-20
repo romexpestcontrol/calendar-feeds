@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Romex Pest//Meeting Action Items//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Romex Meeting Actions
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+UID:meeting-action-a57774711e6fde31@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260722
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Pick top 3 team-feedback items (important + actionable 
+ now)\; bring to next 1:1
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Glen\nOpen Obsidian Meetings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-d606f765354a5ed1@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260722
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Send June marketing PowerPoint / link to exec group for
+  review
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Glen\nOpen Obsidian Meetings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-0f235f1f79a53ff8@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260722
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Post DoLead uptake after increase to 20 leads into the 
+ exec group
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Glen\nOpen Obsidian Meetings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-d0b2ad0916765ad3@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260725
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Follow up GreenX CMO intro for Glen + Bryce (lead provi
+ ders)
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Glen\nOpen Obsidian Meetings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-021ef8573868be64@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260725
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Confirm marketing team Q3 objectives are done
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Glen\nOpen Obsidian Meetings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-345b0cbd1dac66de@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260722
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] All execs independently pick top 3 feedback items (no c
+ oordination)
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: All execs\nOpen Obsidian Meetings fol
+ der.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-ad99e64c381d1c50@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260725
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Discuss top 3 in 1:1s and start knocking list down\; bi
+ weekly Thursday presentation rotation
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Exec team\nOpen Obsidian Meetings fol
+ der.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-62c1fd8eaffb2bd0@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260722
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Sit with HR on quarterly bonus / OKR cadence before Wed
+ nesday
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Exec + HR *(inferred)*\nOpen Obsidian
+  Meetings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-38875858186b3e76@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260801
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] When UKG sandbox available\, walk an exec through perfo
+ rmance/objectives view
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: *(inferred: HR/IT)*\nOpen Obsidian Me
+ etings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-2e02eddc9fcc7e3a@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260730
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Department budgets after revenue forecast lands (~Wed)\
+ ; work with Michelle/Jake
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Finance *(inferred)*\nOpen Obsidian M
+ eetings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-86a6f972bb625c16@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260725
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Propose Thursday meeting assignment model (HR for non-p
+ hone\; Mario for phone)
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Karen / Travis *(inferred)*\nOpen Obs
+ idian Meetings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-aee67a9e5522e3eb@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260730
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Explore short Romex University training block (not full
+  phone shutdown)
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Travis *(inferred)*\nOpen Obsidian Me
+ etings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-3e807d3b50dd8a85@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260725
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Rollins Way plan: brief execs first\, then employees\; 
+ send materials to Ella
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Karen\nOpen Obsidian Meetings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-57c6e5b15cd22763@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260721
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Tuesday event: drawings + catering (~30)\, food near 5:
+ 30
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Karen\nOpen Obsidian Meetings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-ed2eca3ba9b44bc3@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260722
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Communicate new hire lunch policy: department heads own
+  it
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Karen\nOpen Obsidian Meetings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-32f5afc2345b2684@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260815
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Microsoft transition (~Sept): share Sales training mate
+ rials with IT/Glen as needed
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Karen\nOpen Obsidian Meetings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-0f63d6b97ab27bc3@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260801
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] FieldRoutes API migration follow-up (with Turner)
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Travis\nOpen Obsidian Meetings folder
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-264d88334dce66b5@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260722
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Check regionals on completions / float help across offi
+ ces if needed
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Travis\nOpen Obsidian Meetings folder
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-a8ea4e841b8be3ad@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260722
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Inventory cutoff dates with field this week
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Travis *(inferred)*\nOpen Obsidian Me
+ etings folder.
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-70f185091e32bcc7@romexpest.com
+DTSTAMP:20260720T191928Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260801
+TRANSP:TRANSPARENT
+SUMMARY:[Executive] Brainstorm-session cadence (Q3 vs Q4) decide in 1:1s
+DESCRIPTION:From: Meetings/Executive/2026-07-20 - Executive - Leadership st
+ andards and team feedback.md\nOwner: Exec team\nOpen Obsidian Meetings fol
+ der.
+END:VEVENT
+END:VCALENDAR
