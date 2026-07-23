@@ -6,643 +6,1035 @@ METHOD:PUBLISH
 X-WR-CALNAME:Romex Meeting Actions
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:meeting-action-705380bb08f8bd83@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-SUMMARY:[Evan 1-1] Send Evan email list for daily finance digest recipients
-DESCRIPTION:Owner: Glen\nMeetings/Evan 1-1/2026-07-20 - Evan 1-1 - Hex data platform status.md
+UID:meeting-action-a57a51037881c086@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[1-1/Bryce] Remove Wojo from Meta ad account
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Bryce/2026-07-22 - Bryce 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-51c338110ab8617f@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-SUMMARY:[Evan 1-1] Schedule recurring weekly Glen Evan touchpoint
-DESCRIPTION:Owner: Glen\nMeetings/Evan 1-1/2026-07-20 - Evan 1-1 - Hex data platform status.md
+UID:meeting-action-7cc91314cccd6282@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[1-1/Bryce] Remove Wojo from Google Ads account
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Bryce/2026-07-22 - Bryce 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-6b62add93e5f6f5f@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:[Evan 1-1] Draft must-have marketing metrics for Hex scaffolding (when
-DESCRIPTION:Owner: Glen\nMeetings/Evan 1-1/2026-07-20 - Evan 1-1 - Hex data platform status.md
+UID:meeting-action-6121cf2387a07238@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[1-1/Bryce] Deactivate wojo@romexpest.com
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Bryce/2026-07-22 - Bryce 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-0035ea4f60109a96@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:[Evan 1-1] Add digest recipients + create Hex viewer accounts as neede
-DESCRIPTION:Owner: Evan\nMeetings/Evan 1-1/2026-07-20 - Evan 1-1 - Hex data platform status.md
+UID:meeting-action-f5f5b2111ef213d0@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:[1-1/Bryce] Keep Google and Meta paid campaigns running through 2026-0
+DESCRIPTION:Owner: Bryce\nMeetings/1-1/Bryce/2026-07-22 - Bryce 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-cba7c104861a42f0@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:[Evan 1-1] Fix PDF download on daily finance digest Hex app
-DESCRIPTION:Owner: Evan\nMeetings/Evan 1-1/2026-07-20 - Evan 1-1 - Hex data platform status.md
+UID:meeting-action-e4c691d6f6a5809f@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:[1-1/Bryce] Monitor Google Ads every ~2 days through month-end\; ask Cl
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Bryce/2026-07-22 - Bryce 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-95bb59dfa247731e@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-SUMMARY:[Evan 1-1] Send SOW / NSA copy to Glen
-DESCRIPTION:Owner: Evan\nMeetings/Evan 1-1/2026-07-20 - Evan 1-1 - Hex data platform status.md
+UID:meeting-action-0d3e2bd5b395abd8@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:[1-1/Bryce] While Bryce is out (parental leave window): confirm Google
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Bryce/2026-07-22 - Bryce 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-bd936c80398aaafb@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-f623fbc39eb687bb@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[1-1/Bryce] Post DoLead uptake (ramp to 20) in exec group
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Bryce/2026-07-22 - Bryce 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-489fb0876376719c@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:[Evan 1-1] Coach Turner on maintaining digest notification list
-DESCRIPTION:Owner: Evan\nMeetings/Evan 1-1/2026-07-20 - Evan 1-1 - Hex data platform status.md
+SUMMARY:[1-1/Bryce] Approve DoLead invoice on the 30th (monthly cadence) [[Dep
+DESCRIPTION:Owner: Bryce / Glen\nMeetings/1-1/Bryce/2026-07-22 - Bryce 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-ab49cb133cdc2805@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Evan 1-1] Review Turner s FieldRoutes endpoint PR (QA passed)
-DESCRIPTION:Owner: Evan\nMeetings/Evan 1-1/2026-07-20 - Evan 1-1 - Hex data platform status.md
+UID:meeting-action-6972b88bf6f90273@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[1-1/Bryce] Google Ads check #1 (ask Claude)
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Bryce/2026-07-22 - Bryce 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-8352764bd8458170@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:[Evan 1-1] Propose monthly Sam / quarterly exec touchpoint for Evan
-DESCRIPTION:Owner: Glen\nMeetings/Evan 1-1/2026-07-20 - Evan 1-1 - Hex data platform status.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-54ad8786567d2ed7@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-f4d41193135e8990@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:[Evan 1-1] Confirm digest recipient list is live and first emails rece
-DESCRIPTION:Owner: Glen\nMeetings/Evan 1-1/2026-07-20 - Evan 1-1 - Hex data platform status.md
+SUMMARY:[1-1/Bryce] Google Ads check #2 (ask Claude)
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Bryce/2026-07-22 - Bryce 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-6c33bf02abd11a4c@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-56dbd37d1d3956ed@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:[1-1/Bryce] Google Ads check #3 (ask Claude)
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Bryce/2026-07-22 - Bryce 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-16239ea8cdd8d33d@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:[1-1/Bryce] Decide August Google + Meta plan (continue / adjust / paus
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Bryce/2026-07-22 - Bryce 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-cac54e3a6e94782a@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:[1-1/Evan] Send Evan email list for daily finance digest recipients
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Evan/2026-07-20 - Evan 1-1 - Hex data platform status.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-d95c1a6343354c53@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:[1-1/Evan] Schedule recurring weekly Glen Evan touchpoint
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Evan/2026-07-20 - Evan 1-1 - Hex data platform status.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-351b82817f6b3a04@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[1-1/Evan] Draft must-have marketing metrics for Hex scaffolding (when
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Evan/2026-07-20 - Evan 1-1 - Hex data platform status.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-66b5e6519f547a14@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[1-1/Evan] Add digest recipients + create Hex viewer accounts as neede
+DESCRIPTION:Owner: Evan\nMeetings/1-1/Evan/2026-07-20 - Evan 1-1 - Hex data platform status.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-d5dc9cfdda842e0c@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[1-1/Evan] Fix PDF download on daily finance digest Hex app
+DESCRIPTION:Owner: Evan\nMeetings/1-1/Evan/2026-07-20 - Evan 1-1 - Hex data platform status.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-5c7c07480a11f834@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:[1-1/Evan] Send SOW / NSA copy to Glen
+DESCRIPTION:Owner: Evan\nMeetings/1-1/Evan/2026-07-20 - Evan 1-1 - Hex data platform status.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-cee6f152da43cfc5@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:[1-1/Evan] Coach Turner on maintaining digest notification list
+DESCRIPTION:Owner: Evan\nMeetings/1-1/Evan/2026-07-20 - Evan 1-1 - Hex data platform status.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-a5a963a9d3afc2f6@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[1-1/Evan] Review Turner s FieldRoutes endpoint PR (QA passed)
+DESCRIPTION:Owner: Evan\nMeetings/1-1/Evan/2026-07-20 - Evan 1-1 - Hex data platform status.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-c749adc08c22a0c1@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[1-1/Evan] Propose monthly Sam / quarterly exec touchpoint for Evan
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Evan/2026-07-20 - Evan 1-1 - Hex data platform status.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-015cb0510556a28a@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:[1-1/Evan] Confirm digest recipient list is live and first emails rece
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Evan/2026-07-20 - Evan 1-1 - Hex data platform status.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-0baf62d5fe891bb4@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-SUMMARY:[Evan 1-1] Retention / 5-min FieldRoutes epic status
-DESCRIPTION:Owner: Evan\nMeetings/Evan 1-1/2026-07-20 - Evan 1-1 - Hex data platform status.md
+SUMMARY:[1-1/Evan] Retention / 5-min FieldRoutes epic status
+DESCRIPTION:Owner: Evan\nMeetings/1-1/Evan/2026-07-20 - Evan 1-1 - Hex data platform status.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-6f401a77a00edd3d@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-SUMMARY:[Executive] Preserve whiteboard photo / typed board list from company 
-DESCRIPTION:Owner: Katie *(inferred)*\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-6fd3f3ae0e4a1265@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Executive] Confirm final top 3 5 items chosen from this session s boa
-DESCRIPTION:Owner: Leadership\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-b52b8bf815c33ab7@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Executive] Pick personal top 3 feedback items (important + actionable
-DESCRIPTION:Owner: Glen\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-6d30d24f3db7341d@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
-SUMMARY:[Executive] Biweekly status back to company on agreed feedback items
-DESCRIPTION:Owner: Exec team\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-b7bee6287ac039df@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:[Executive] Stand up (or select) central editable SOP system
-DESCRIPTION:Owner: *(TBD)*\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-ef096c5229db9db4@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:[Executive] Draft who-to-go-to flowchart for CSR / billing / payments
-DESCRIPTION:Owner: *(TBD: ops/CS)*\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-d58202a526e00c6b@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:[Executive] Explore sales reserved scheduling spots / emergency same-d
-DESCRIPTION:Owner: Travis / ops *(inferred)*\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-9ff1a0008cbf891a@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:[Executive] Clarify office field process + manager exception authority
-DESCRIPTION:Owner: *(TBD)*\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-4c16ccb472181062@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:[Executive] Restart engagement challenges (Wed/Fri) when capacity allo
-DESCRIPTION:Owner: HR / culture *(inferred)*\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-c73332ec7508359e@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:[Executive] Add part-time PTO to Q4 handbook review agenda
-DESCRIPTION:Owner: HR\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-07930b5aef197c98@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:[Executive] Require notes on account before call transfers
-DESCRIPTION:Owner: CS leadership *(inferred)*\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-1eea4c0c2e9d1044@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Executive] Align this board to the 7/20 'exec top 3 Thursday presenta
-DESCRIPTION:Owner: Exec team\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-3c87c958478f6b13@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Executive] Share consolidated feedback list with execs (both session 
-DESCRIPTION:Owner: Katie / facilitator\nMeetings/Executive/2026-07-16 - Executive - Company feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-a4278fc213e39d4f@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Executive] Pick top 3 team-feedback items (important + actionable now
-DESCRIPTION:Owner: Glen\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-d606f765354a5ed1@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Executive] Send June marketing PowerPoint / link to exec group for re
-DESCRIPTION:Owner: Glen\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-0f235f1f79a53ff8@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Executive] Post DoLead uptake after increase to 20 leads into the exe
-DESCRIPTION:Owner: Glen\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-d0b2ad0916765ad3@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-526bb9ae071e21dc@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-SUMMARY:[Executive] Follow up GreenX CMO intro for Glen + Bryce (lead provider
-DESCRIPTION:Owner: Glen\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+SUMMARY:[1-1/Kevin] Build shared emergency-contact list for critical systems (
+DESCRIPTION:Owner: Kevin + Glen\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-021ef8573868be64@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-9005e11073038dd0@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-SUMMARY:[Executive] Confirm marketing team Q3 objectives are done
-DESCRIPTION:Owner: Glen\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+SUMMARY:[1-1/Kevin] Confirm Q3 priority slate (3 4 projects) with Sam and lock
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-345b0cbd1dac66de@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Executive] All execs independently pick top 3 feedback items (no coor
-DESCRIPTION:Owner: All execs\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-d68b16e8202714b7@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:[Executive] Discuss top 3 in 1:1s and start knocking list down\; biweek
-DESCRIPTION:Owner: Exec team\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-62c1fd8eaffb2bd0@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Executive] Sit with HR on quarterly bonus / OKR cadence before Wednes
-DESCRIPTION:Owner: Exec + HR *(inferred)*\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-5ca012c7cd9ed6a8@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:[Executive] When UKG sandbox available\, walk an exec through performan
-DESCRIPTION:Owner: *(inferred: HR/IT)*\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-c725e866a86d950c@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
-SUMMARY:[Executive] Department budgets after revenue forecast lands (~Wed)\; wo
-DESCRIPTION:Owner: Finance *(inferred)*\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-e78b689f3fab679d@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:[Executive] Propose Thursday meeting assignment model (HR for non-phon
-DESCRIPTION:Owner: Karen / Travis *(inferred)*\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-a2bb4dbc84da0d7c@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
-SUMMARY:[Executive] Explore short Romex University training block (not full ph
-DESCRIPTION:Owner: Travis *(inferred)*\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-7a19760c3642a615@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:[Executive] Rollins Way plan: brief execs first\, then employees\; send 
-DESCRIPTION:Owner: Karen\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-57c6e5b15cd22763@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
-SUMMARY:[Executive] Tuesday event: drawings + catering (~30)\, food near 5:30
-DESCRIPTION:Owner: Karen\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-ed2eca3ba9b44bc3@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Executive] Communicate new hire lunch policy: department heads own it
-DESCRIPTION:Owner: Karen\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-a8a6909c9386c71e@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:[Executive] Microsoft transition (~Sept): share Sales training materia
-DESCRIPTION:Owner: Karen\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-0f63d6b97ab27bc3@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:[Executive] FieldRoutes API migration follow-up (with Turner)
-DESCRIPTION:Owner: Travis\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-264d88334dce66b5@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Executive] Check regionals on completions / float help across offices
-DESCRIPTION:Owner: Travis\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-a8ea4e841b8be3ad@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Executive] Inventory cutoff dates with field this week
-DESCRIPTION:Owner: Travis *(inferred)*\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-70f185091e32bcc7@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:[Executive] Brainstorm-session cadence (Q3 vs Q4) decide in 1:1s
-DESCRIPTION:Owner: Exec team\nMeetings/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-ee3bec834cb3225d@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:[Kevin 1-1] Build shared emergency-contact list for critical systems (
-DESCRIPTION:Owner: Kevin + Glen\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-f3a31e639062432f@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:[Kevin 1-1] Confirm Q3 priority slate (3 4 projects) with Sam and lock
-DESCRIPTION:Owner: Glen\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-f81d191fbb79b8b4@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-1c9788bcfb3509a6@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-SUMMARY:[Kevin 1-1] CSR training AV: try Google Meet / monitor workaround\; exp
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] CSR training AV: try Google Meet / monitor workaround\; exp
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-f7eac4cc39d93acc@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-2acb5d4b7d4f29b2@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-SUMMARY:[Kevin 1-1] Align with Mario + Karen on headset purchase\; place order 
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Align with Mario + Karen on headset purchase\; place order 
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-735244413a4275ed@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-55780b5d3512e6a6@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-SUMMARY:[Kevin 1-1] Order more building badges (CS Saturday access risk)
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Order more building badges (CS Saturday access risk)
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-5c323a4781a8a271@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-fcf3b81821558243@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-SUMMARY:[Kevin 1-1] Internet backup proposal to Sam (cost vs outage risk)
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Internet backup proposal to Sam (cost vs outage risk)
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-16288f5c6b661dee@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-f18350f9fbb07919@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:[Kevin 1-1] Password manager: check NordPass seats/status with Travis\;
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Password manager: check NordPass seats/status with Travis\;
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-65556d65ed523faa@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-1986d115aba58ea6@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:[Kevin 1-1] Finish UKG/Rollins acquisition discovery follow-up meeting
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Finish UKG/Rollins acquisition discovery follow-up meeting
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-9b9850a7374e96bd@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-5e7753a47ede8bb1@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-SUMMARY:[Kevin 1-1] Add Microsoft 365 launch training (deck + sessions) to pro
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Add Microsoft 365 launch training (deck + sessions) to pro
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-1d642ca6181d0b1a@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-e97b48f609672a18@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:[Kevin 1-1] Establish monthly Verizon tech-phone audit checklist and c
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Establish monthly Verizon tech-phone audit checklist and c
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-ee12e3600ce5893f@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-3b776911d07f7760@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:[Kevin 1-1] FieldRoutes Ignite: find official site\, dates\, ticket dead
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] FieldRoutes Ignite: find official site\, dates\, ticket dead
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-9a48afb446d1b362@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-d01ed32480f48895@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
-SUMMARY:[Kevin 1-1] Glen: support Ignite / training spend conversation with Sa
-DESCRIPTION:Owner: Glen\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Glen: support Ignite / training spend conversation with Sa
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-a3e9e284b21db749@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-773e8726cb1a8ad1@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-SUMMARY:[Kevin 1-1] Reach out to Julie on badge-in door schedules\; specify man
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Reach out to Julie on badge-in door schedules\; specify man
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-0867523f6884436e@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-1146400c091dd2b7@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:[Kevin 1-1] Progress iPad wipe/list/sell for Q3
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Progress iPad wipe/list/sell for Q3
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-2c3e099f3aee4950@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-e6a128c47393c400@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-SUMMARY:[Kevin 1-1] Clear 1st-floor storage before building mgr needs space
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Clear 1st-floor storage before building mgr needs space
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-670e1e5ea4eb1a53@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-ca0f1190107a8ef8@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-SUMMARY:[Kevin 1-1] Reach Fox on extra cubicle parts
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Reach Fox on extra cubicle parts
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-cce717d57678362c@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-778ac86b1a9052e8@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-SUMMARY:[Kevin 1-1] Chat Karen on fax service need/timing (UKG)
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Chat Karen on fax service need/timing (UKG)
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-c22823f636b0d35d@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-e39ed12da67990ec@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:[Kevin 1-1] Review locked Q3 list vs Sam feedback
-DESCRIPTION:Owner: Glen + Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Review locked Q3 list vs Sam feedback
+DESCRIPTION:Owner: Glen + Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-50ae7ce9e8b2ac04@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-b146a470ff936448@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-SUMMARY:[Kevin 1-1] Status: CSR training AV + badges + internet backup proposa
-DESCRIPTION:Owner: Kevin\nMeetings/Kevin 1-1/2026-07-16 - Kevin 1-1.md
+SUMMARY:[1-1/Kevin] Status: CSR training AV + badges + internet backup proposa
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-16 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-1b72d40a84b1776c@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-SUMMARY:[Turner 1-1] Reslack Sam the Ops/tech app live hyperlink + password
-DESCRIPTION:Owner: Turner\nMeetings/Turner 1-1/2026-07-15 - Meeting with Turner and Sam.md
+UID:meeting-action-980161cc7987c14d@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[1-1/Kevin] Send Verizon backup-internet quote details to Glen
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-99f459bed07c0aba@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-SUMMARY:[Turner 1-1] Send app link to branch managers\; Google Doc for feedback
-DESCRIPTION:Owner: Sam\nMeetings/Turner 1-1/2026-07-15 - Meeting with Turner and Sam.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-401cffb46091bf03@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Turner 1-1] Circle back next week on BM feedback + mobile/App Store g
-DESCRIPTION:Owner: Glen + Turner + Sam\nMeetings/Turner 1-1/2026-07-15 - Meeting with Turner and Sam.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-2642171ebc4735fe@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260730
-SUMMARY:[Turner 1-1] Continue web cleanup\; build mobile view (~1 day) then App
-DESCRIPTION:Owner: Turner\nMeetings/Turner 1-1/2026-07-15 - Meeting with Turner and Sam.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-ed82eb79030c0c78@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-1ee29ff1b3b7c23f@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-SUMMARY:[Turner 1-1] Request Hex co-editor on daily finance dashboard if not a
-DESCRIPTION:Owner: Turner / Evan\nMeetings/Turner 1-1/2026-07-15 - Meeting with Turner and Sam.md
+SUMMARY:[1-1/Kevin] Present backup internet ($30/mo plan) to Sam for decision
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-83c7d2cbe0769b19@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Turner 1-1] Review branch-manager feedback doc
-DESCRIPTION:Owner: Glen + Turner\nMeetings/Turner 1-1/2026-07-15 - Meeting with Turner and Sam.md
+UID:meeting-action-1b14cc2f0d320f5a@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[1-1/Kevin] Text Tim for FieldRoutes Ignite discount / promo
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-2d2d5d94aafb030e@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:[Turner 1-1] Align with Hex commercial review (invoice / retainer) wit
-DESCRIPTION:Owner: Glen\nMeetings/Turner 1-1/2026-07-15 - Meeting with Turner and Sam.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-6a8bab38aa6d28a9@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[Turner 1-1] Set a firm calendar date for technician-app beta start (n
-DESCRIPTION:Owner: Turner\nMeetings/Turner 1-1/2026-07-20 - Turner 1-1.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-ec92ebfda4acea79@romexpest.com
-DTSTAMP:20260721T150953Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:[Turner 1-1] Finish Zoom AI transcript FieldRoutes notes pipeline for 
-DESCRIPTION:Owner: Turner\nMeetings/Turner 1-1/2026-07-20 - Turner 1-1.md
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-action-e085368ccbe1d9c5@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-cd5c1fde0ae3caad@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:[Turner 1-1] Complete technician KPI review + phone/App Store style vi
-DESCRIPTION:Owner: Turner\nMeetings/Turner 1-1/2026-07-20 - Turner 1-1.md
+SUMMARY:[1-1/Kevin] Present Ignite cost (~$1\,100 + travel) to Sam with/without
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-4541a716f739f524@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-730eaccccd05e9fa@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[1-1/Kevin] Order more building badges
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-820f67bf43285753@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:[1-1/Kevin] Finish 1st-floor clear-out + after-hours network pull
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-10cadb03d3af686a@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[1-1/Kevin] Align Suite 300 door hours with other door (stop propping)
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-28f0e2503007fc89@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[1-1/Kevin] Confirm new conference-room AV compatibility (Zoom / Teams
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-397a70a49bf3dc7e@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[1-1/Kevin] Price FieldRoutes sandbox options\; decide go/no-go with Gl
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-8897b7aa65b34641@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:[1-1/Kevin] FieldRoutes Q3 learning: scheduling (Aubrey) customer card
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-acc6e01de1a38ae2@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[1-1/Kevin] Decide whether to add Glen or Bryce ticketing license (~$5
+DESCRIPTION:Owner: Glen + Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-5f29954af018db4f@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:[1-1/Kevin] Progress iPad MDM remove + wipe + employee sale spreadshee
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-de2c6b8d179e447e@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[1-1/Kevin] Draft hardware procurement options one-pager for Sam
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-13c6e544a2ac2abb@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[1-1/Kevin] Add Glen as collaborator on Kevin s Q2/Q3 goals view
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-ea871d2ee9e9ce0c@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:[1-1/Kevin] Ask Sam: Q2 bonus timing + cruise seat rules for Glen s te
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-7da80c59442c436c@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[1-1/Kevin] Deactivate wojo@romexpest.com
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-e6744af9181bf0a3@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:[1-1/Kevin] Status: badges\, 1st-floor network pull\, backup-internet Sa
+DESCRIPTION:Owner: Kevin + Glen\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-6a45615acf1a5b6f@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:[1-1/Kevin] Sandbox quote + Ignite Tim reply
+DESCRIPTION:Owner: Kevin\nMeetings/1-1/Kevin/2026-07-23 - Kevin 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-b408d8702426ee85@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[1-1/Turner] Set a firm calendar date for technician-app beta start (n
+DESCRIPTION:Owner: Turner\nMeetings/1-1/Turner/2026-07-20 - Turner 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-5d4ba2cb32335d34@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[1-1/Turner] Finish Zoom AI transcript FieldRoutes notes pipeline for 
+DESCRIPTION:Owner: Turner\nMeetings/1-1/Turner/2026-07-20 - Turner 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-5668e693a2ebf9ec@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:[1-1/Turner] Complete technician KPI review + phone/App Store style vi
+DESCRIPTION:Owner: Turner\nMeetings/1-1/Turner/2026-07-20 - Turner 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-907ba41bb1334d2e@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-SUMMARY:[Turner 1-1] RSVP Karen for Tuesday social (catering headcount)
-DESCRIPTION:Owner: Turner\nMeetings/Turner 1-1/2026-07-20 - Turner 1-1.md
+SUMMARY:[1-1/Turner] RSVP Karen for Tuesday social (catering headcount)
+DESCRIPTION:Owner: Turner\nMeetings/1-1/Turner/2026-07-20 - Turner 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-a6400e9c6cbe242c@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-b79c83e99310d849@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-SUMMARY:[Turner 1-1] Schedule Paycor performance / goals walkthrough with Turn
-DESCRIPTION:Owner: Glen\nMeetings/Turner 1-1/2026-07-20 - Turner 1-1.md
+SUMMARY:[1-1/Turner] Schedule Paycor performance / goals walkthrough with Turn
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Turner/2026-07-20 - Turner 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-c5a34b522e1afb0c@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-0b2edd116158b635@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:[Turner 1-1] After tech-app KPI + phone view ready\, run nitpicky revie
-DESCRIPTION:Owner: Glen\nMeetings/Turner 1-1/2026-07-20 - Turner 1-1.md
+SUMMARY:[1-1/Turner] After tech-app KPI + phone view ready\, run nitpicky revie
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Turner/2026-07-20 - Turner 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-93b9bdb0e1a6b51c@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-5c68458f42723513@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-SUMMARY:[Turner 1-1] As Hex responsibilities shift\, ensure Turner has access t
-DESCRIPTION:Owner: Glen\nMeetings/Turner 1-1/2026-07-20 - Turner 1-1.md
+SUMMARY:[1-1/Turner] As Hex responsibilities shift\, ensure Turner has access t
+DESCRIPTION:Owner: Glen\nMeetings/1-1/Turner/2026-07-20 - Turner 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-05fb171a64526db1@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-a5b273335fd182d8@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:[Turner 1-1] Confirm Zoom FieldRoutes pipeline live for Travis
-DESCRIPTION:Owner: Turner\nMeetings/Turner 1-1/2026-07-20 - Turner 1-1.md
+SUMMARY:[1-1/Turner] Confirm Zoom FieldRoutes pipeline live for Travis
+DESCRIPTION:Owner: Turner\nMeetings/1-1/Turner/2026-07-20 - Turner 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-c7f36ddb5ad3a838@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-08547e2489501465@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:[Turner 1-1] Tech app beta date + review scheduled
-DESCRIPTION:Owner: Glen + Turner\nMeetings/Turner 1-1/2026-07-20 - Turner 1-1.md
+SUMMARY:[1-1/Turner] Tech app beta date + review scheduled
+DESCRIPTION:Owner: Glen + Turner\nMeetings/1-1/Turner/2026-07-20 - Turner 1-1.md
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-action-fc2a61e7d6ee4761@romexpest.com
-DTSTAMP:20260721T150953Z
+UID:meeting-action-e283ec0722160aef@romexpest.com
+DTSTAMP:20260723T172354Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:[Turner 1-1] Paycor goals entered for Q3
-DESCRIPTION:Owner: Turner\nMeetings/Turner 1-1/2026-07-20 - Turner 1-1.md
+SUMMARY:[1-1/Turner] Paycor goals entered for Q3
+DESCRIPTION:Owner: Turner\nMeetings/1-1/Turner/2026-07-20 - Turner 1-1.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-6f48ee5b2a081467@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:[Department/Executive] Preserve whiteboard photo / typed board list fr
+DESCRIPTION:Owner: Katie *(inferred)*\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-e86f1799eb27ec00@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Department/Executive] Confirm final top 3 5 items chosen from this se
+DESCRIPTION:Owner: Leadership\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-8b71195b97466e64@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Department/Executive] Pick personal top 3 feedback items (important +
+DESCRIPTION:Owner: Glen\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-1e5f39cbe4e8e99f@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:[Department/Executive] Biweekly status back to company on agreed feedb
+DESCRIPTION:Owner: Exec team\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-283e1f89afea2f0d@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[Department/Executive] Stand up (or select) central editable SOP syste
+DESCRIPTION:Owner: *(TBD)*\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-6874250f49f60385@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[Department/Executive] Draft who-to-go-to flowchart for CSR / billing 
+DESCRIPTION:Owner: *(TBD: ops/CS)*\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-e077e2a3f4c94e1d@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[Department/Executive] Explore sales reserved scheduling spots / emerg
+DESCRIPTION:Owner: Travis / ops *(inferred)*\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-c6d0e904a01cd7e5@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[Department/Executive] Clarify office field process + manager exceptio
+DESCRIPTION:Owner: *(TBD)*\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-f730ab65c5bc59fc@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:[Department/Executive] Restart engagement challenges (Wed/Fri) when ca
+DESCRIPTION:Owner: HR / culture *(inferred)*\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-c5e2b70bffd673f0@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:[Department/Executive] Add part-time PTO to Q4 handbook review agenda
+DESCRIPTION:Owner: HR\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-3c6644265a358561@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[Department/Executive] Require notes on account before call transfers
+DESCRIPTION:Owner: CS leadership *(inferred)*\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-287f75dde3a90f63@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Department/Executive] Align this board to the 7/20 'exec top 3 Thursd
+DESCRIPTION:Owner: Exec team\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-e0bc2cbf37d70926@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Department/Executive] Share consolidated feedback list with execs (bo
+DESCRIPTION:Owner: Katie / facilitator\nMeetings/Department/Executive/2026-07-16 - Executive - Company feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-183cdae1e2471148@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Department/Executive] Pick top 3 team-feedback items (important + act
+DESCRIPTION:Owner: Glen\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-a842f4ab3c0c471e@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Department/Executive] Send June marketing PowerPoint / link to exec g
+DESCRIPTION:Owner: Glen\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-4d30881cfa5b53e8@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Department/Executive] Post DoLead uptake after increase to 20 leads i
+DESCRIPTION:Owner: Glen\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-73d14fb57307e14c@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[Department/Executive] Follow up GreenX CMO intro for Glen + Bryce (le
+DESCRIPTION:Owner: Glen\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-1b65daa22904b904@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[Department/Executive] Confirm marketing team Q3 objectives are done
+DESCRIPTION:Owner: Glen\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-4105a58bc285c980@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Department/Executive] All execs independently pick top 3 feedback ite
+DESCRIPTION:Owner: All execs\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-781017c6808d2bb9@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[Department/Executive] Discuss top 3 in 1:1s and start knocking list d
+DESCRIPTION:Owner: Exec team\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-85b0914c9db48000@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Department/Executive] Sit with HR on quarterly bonus / OKR cadence be
+DESCRIPTION:Owner: Exec + HR *(inferred)*\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-747d20bd3d5742b6@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[Department/Executive] When UKG sandbox available\, walk an exec throug
+DESCRIPTION:Owner: *(inferred: HR/IT)*\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-1f2cf7201c757707@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:[Department/Executive] Department budgets after revenue forecast lands
+DESCRIPTION:Owner: Finance *(inferred)*\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-120e4faa63f34ecf@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[Department/Executive] Propose Thursday meeting assignment model (HR f
+DESCRIPTION:Owner: Karen / Travis *(inferred)*\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-12348a10fd741e00@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:[Department/Executive] Explore short Romex University training block (
+DESCRIPTION:Owner: Travis *(inferred)*\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-60d3a0769ee450a8@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[Department/Executive] Rollins Way plan: brief execs first\, then emplo
+DESCRIPTION:Owner: Karen\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-527a628f169e4258@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:[Department/Executive] Tuesday event: drawings + catering (~30)\, food 
+DESCRIPTION:Owner: Karen\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-03659eaec957c775@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Department/Executive] Communicate new hire lunch policy: department h
+DESCRIPTION:Owner: Karen\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-a41124a4a0b6b7be@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[Department/Executive] Microsoft transition (~Sept): share Sales train
+DESCRIPTION:Owner: Karen\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-cf320596fb26a244@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[Department/Executive] FieldRoutes API migration follow-up (with Turne
+DESCRIPTION:Owner: Travis\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-7ee96ecdaa96e9a1@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Department/Executive] Check regionals on completions / float help acr
+DESCRIPTION:Owner: Travis\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-6db26159c32e057a@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Department/Executive] Inventory cutoff dates with field this week
+DESCRIPTION:Owner: Travis *(inferred)*\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-2fe81082710ec489@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[Department/Executive] Brainstorm-session cadence (Q3 vs Q4) decide in
+DESCRIPTION:Owner: Exec team\nMeetings/Department/Executive/2026-07-20 - Executive - Leadership standards and team feedback.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-929c77299a50a15a@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[Rollins/Initiatives] Complete Justin s discovery template (yellow fie
+DESCRIPTION:Owner: Glen + Kevin\nMeetings/Rollins/Initiatives/2026-07-22 - UKG email network and communications.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-220db3934b77c611@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[Rollins/Initiatives] Send Justin inventory: company phones/tablets\, O
+DESCRIPTION:Owner: Kevin\nMeetings/Rollins/Initiatives/2026-07-22 - UKG email network and communications.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-a63e4500352c9d0a@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[Rollins/Initiatives] When Justin shares Wednesday UKG user list: help
+DESCRIPTION:Owner: Glen + Kevin\nMeetings/Rollins/Initiatives/2026-07-22 - UKG email network and communications.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-7fcf45dec643f774@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:[Rollins/Initiatives] Connect Carrie Karen Trujillo on communication r
+DESCRIPTION:Owner: Claire / Carrie *(Glen support as needed)*\nMeetings/Rollins/Initiatives/2026-07-22 - UKG email network and communications.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-8b9315b5284b52c6@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[Rollins/Initiatives] File Sailor private-window / SSO error screensho
+DESCRIPTION:Owner: Justin + Carrie\nMeetings/Rollins/Initiatives/2026-07-22 - UKG email network and communications.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-8a67d2d6d34b564f@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[Rollins/Initiatives] Confirm UKG training timeline from Karen / HR (e
+DESCRIPTION:Owner: Tim + Glen\nMeetings/Rollins/Initiatives/2026-07-22 - UKG email network and communications.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-7711d3d3b4a03c78@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:[Rollins/Initiatives] After UKG identities live: plan Romex email cuto
+DESCRIPTION:Owner: Justin + Glen + Kevin\nMeetings/Rollins/Initiatives/2026-07-22 - UKG email network and communications.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-31aa32124365e35b@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[Rollins/Initiatives] Sailor mobile: confirm Mass360 Intune link\; take
+DESCRIPTION:Owner: Tim\nMeetings/Rollins/Initiatives/2026-07-22 - UKG email network and communications.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-130d199c5bc762ea@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[Rollins/Initiatives] Zeke: ship Wi-Fi iPad + non-carrier phone to Bre
+DESCRIPTION:Owner: Zeke\nMeetings/Rollins/Initiatives/2026-07-22 - UKG email network and communications.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-6941d8c568bf44c6@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:[Rollins/Tim Liaison] Send Rollins phone/PC pricing PowerPoint
+DESCRIPTION:Owner: Tim\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim - UKG hardware and vendors.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-00c5f8f31bf26587@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[Rollins/Tim Liaison] After sheet: decide CapEx vs Rollins vs hybrid\; 
+DESCRIPTION:Owner: Kevin + Glen\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim - UKG hardware and vendors.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-3056f7c7d9a147f8@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:[Rollins/Tim Liaison] Plan credential dispersal for Rollins IDs when U
+DESCRIPTION:Owner: Glen + Kevin\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim - UKG hardware and vendors.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-84140390bcdc5970@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:[Rollins/Tim Liaison] Educate staff on dual-mailbox migration when Sai
+DESCRIPTION:Owner: Glen + Kevin\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim - UKG hardware and vendors.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-ce861fe23aee83ed@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[Rollins/Tim Liaison] Confirm allocation deferral with Michelle + Kare
+DESCRIPTION:Owner: Tim\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim - UKG hardware and vendors.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-78e6437aa280d99a@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:[Rollins/Tim Liaison] Introduce Bryson Carter (Revtel) to Glen + Kevin
+DESCRIPTION:Owner: Tim\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim - UKG hardware and vendors.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-824a3ba788a3a32e@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[Rollins/Tim Liaison] Optional: ask Tim to poll other brand IT BPs for
+DESCRIPTION:Owner: Kevin\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim - UKG hardware and vendors.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-4f7db0bdced46d16@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Rollins/Tim Liaison] File Tim s pricing deck into this Rollins folder
+DESCRIPTION:Owner: Glen\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim - UKG hardware and vendors.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-29bb50f3d0eed302@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[Rollins/Tim Liaison] After Revtel intro: decide interest (no obligati
+DESCRIPTION:Owner: Glen + Kevin\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim - UKG hardware and vendors.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-0d7a62413a855461@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:[Rollins/Tim Liaison] Watch Fox Boost.ai go-live as call-center AI ben
+DESCRIPTION:Owner: Glen\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim - UKG hardware and vendors.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-4fa4c1fd50e36cd1@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:[Rollins/Tim Liaison] Talk to Brad about Sailor providing monitors/mic
+DESCRIPTION:Owner: Glen\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-a4602eccd09db276@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:[Rollins/Tim Liaison] Tell Karen Romex may be out of peripherals\; ask 
+DESCRIPTION:Owner: Glen\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-96e54f12e16f856b@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:[Rollins/Tim Liaison] War room entry: temp workstation ask + Sailor pa
+DESCRIPTION:Owner: Glen\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-3b5064ab67b2e4b1@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:[Rollins/Tim Liaison] Ask Travis Zoom CSR/call-center next steps and g
+DESCRIPTION:Owner: Glen\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-349ea0bb66636be5@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[Rollins/Tim Liaison] War room entry on Zoom status / next steps once 
+DESCRIPTION:Owner: Glen\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-b513a33559d6d21b@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[Rollins/Tim Liaison] Demo tech app / site to Tim when he has time (of
+DESCRIPTION:Owner: Glen\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim.md
+END:VEVENT
+BEGIN:VEVENT
+UID:meeting-action-db8eca48de598240@romexpest.com
+DTSTAMP:20260723T172354Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[Rollins/Tim Liaison] Confirm war room format Tim wants from Glen once
+DESCRIPTION:Owner: Glen + Tim\nMeetings/Rollins/Tim Liaison/2026-07-14 - Meeting with Tim.md
 END:VEVENT
 END:VCALENDAR
